@@ -22,7 +22,7 @@ This project analyzes the **Global Space Exploration Dataset (2000-2025)** 🚀 
 
 ## Project Structure
 ```
-modulo1/
+folder/
 ├── README.md                 # Project documentation and overview
 ├── data/                     # Data folder
 │   └── Global Space Exploration Dataset (2000-2025)
