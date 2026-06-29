@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes the **Global Space Exploration Dataset (2000-2025)** 🚀 to uncover trends, patterns, and insights in global space exploration activities over the past two and a half decades.
 
+![Overview](img/screenshot.jpg)
+
 ## Dataset
 - **Source**: [Global Space Exploration Dataset (2000-2025) 🚀](https://www.kaggle.com/datasets/atharvasoundankar/global-space-exploration-dataset-2000-2025)
 - **Time Period**: 2000-2025
